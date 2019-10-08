@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Description of Conn
+ * Script de conexão
  *
- * @copyright (c) year, Cesar Szpak - Celke
+ * @copyright (c) 2019, Bruno Firmiano
  */
 class Conn {
     
